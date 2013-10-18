@@ -1,12 +1,6 @@
-HBO Recycling Infographic
+Infographic of barriers to participation in media
 ==================================================
 
-I love the diagram in [The HBO Recycling Program](http://www.grantland.com/story/_/id/6635619/the-hbo-recycling-program).  It shows you the actors who've worked in multiple HBO shows and makes it clear how often HBO works with the same actors.  The image is pretty and interesting to look at, but it's difficult to read.  
+This infographic shows outcomes from the <a href="http://iva.aippnet.org/">Indigenous Voices in Asia</a> project's workshop on regional media strategy and networking. Click the dots to highlight barriers related to specific countries. Click or hover over a country or issue to see connections.
 
-Can you find the one actor who's worked on Oz, The Sopranos, and The Wire?  I can't.
-
-I love the idea, but the implementation falls short.  This project is all about creating a new interactive version of this image which makes it easier to use.  
-
-This info graphic is made with [PaperJS](http://www.paperjs.org), [underscore.js](http://documentcloud.github.com/underscore), and a little [JQuery](http://www.jquery.com) with fonts from [Typekit](http://typekit.com).
-
-Try it out:  [zgrossbart.github.com/hborecycling](http://zgrossbart.github.com/hborecycling)
+ The code for this infographic is modified from  <a href="http://www.zackgrossbart.com/blog/more-about-zack/">Zack Grossbart's</a>  <a href="https://github.com/zgrossbart/hborecycling">HBORecycling project on GitHub</a>, which was based on a visualization by Craig Robinson. It's made with <a href="http://www.paperjs.org">PaperJS</a>, <a href="http://documentcloud.github.com/underscore/">underscore.js</a>, and a little <a href="http://jquery.com/">JQuery</a>.
