@@ -10,7 +10,8 @@ var DATA = {
         "Cambodia",
         "Indonesia",
         "Thailand",
-         "Nepal"
+         "Nepal",
+         "Malaysia"
     ],
     "geographical isolation": [
         "Indonesia",
@@ -19,27 +20,27 @@ var DATA = {
         "Cambodia",
          "Nepal"
     ],
-    "training for indigenous journalists": [
+    "journalism training": [
         "India",
         "Cambodia",
         "Nepal"
     ],
-    "hostile media ownership": [
+    "media ownership": [
         "Philippines",
         "Indonesia",
          "Nepal"
     ],
-    "broadcast licensing barriers": [
+    "broadcast licensing": [
         "Cambodia",
         "Indonesia"
     ],
-    "freedom of expression barriers": [
+    "freedom of expression": [
         "India",
         "Malaysia",
         "Bangladesh", 
         "Philippines"
     ],
-    "capital-centric media coverage": [
+    "capital-centric coverage": [
         "Indonesia",
         "Malaysia",
         "Philippines"
@@ -57,23 +58,24 @@ var DATA = {
         "Cambodia",
         "Indonesia"
     ],   
-     "media corporate interests": [
+     "corporate interests": [
         "Cambodia",
         "Indonesia",
         "Philippines"
     ],
     "militarization": [
-        "Philippines"
+        "Philippines",
+        "Myanmar"
     ],
-    "discrimination in media employment": [
+    "employment discrimination": [
         "Nepal"
     ],
-    "education for indigneous journalists":[
+    "indigenous education":[
         "Nepal",
         "Cambodia",
         "Indonesia"
     ],    
-    "concept of indigenous unrecognized":[
+    "indigenous concept unrecognized":[
         "Myanmar",
         "Laos"
        ],  
