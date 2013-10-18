@@ -32,5 +32,49 @@ var DATA = {
     "broadcast licensing barriers": [
         "Cambodia",
         "Indonesia"
-    ]
+    ],
+    "freedom of expression barriers": [
+        "India",
+        "Malaysia",
+        "Bangladesh", 
+        "Philippines"
+    ],
+    "capital-centric media coverage": [
+        "Indonesia",
+        "Malaysia",
+        "Philippines"
+    ],
+    "government control media": [
+        "Cambodia",
+        "Laos"
+    ],   
+    "self-censorship": [
+        "Malaysia",
+        "Cambodia",
+        "Philippines"
+    ],   
+    "indigneous literacy": [
+        "Cambodia",
+        "Indonesia"
+    ],   
+     "media corporate interests": [
+        "Cambodia",
+        "Indonesia",
+        "Philippines"
+    ],
+    "militarization": [
+        "Philippines"
+    ],
+    "discrimination in media employment": [
+        "Nepal"
+    ],
+    "education for indigneous journalists":[
+        "Nepal",
+        "Cambodia",
+        "Indonesia"
+    ],    
+    "concept of indigenous unrecognized":[
+        "Myanmar",
+        "Laos"
+       ],  
 };
