@@ -1,6 +1,6 @@
 /**
  * Our rel closure contains functions to show the relationships
- * between actors and the shows they're in.  It also handles the
+ * between countries and the barriers indigneous people face there. Note terms still refer to actors/shows from the HBOrecycling project the code originated from in GitHub.  It also handles the
  * drawing of all of our objects.  
  */
 var rel = {
