@@ -1,6 +1,8 @@
 /**
  * Our rel closure contains functions to show the relationships
- * between actors and the shows they're in.  It also handles the
+ * between countries and the barriers indigenous people face there. 
+ * Note terms still refer to actors/shows from the HBOrecycling project the code originated from in GitHub. 
+ * It also handles the
  * drawing of all of our objects.  
  */
 var rel = {
@@ -407,7 +409,7 @@ jQuery(document).ready(function() {
     /*
     * Then we set the height of our view
     */
-    view.viewSize = [1000, actorY + 50];
+    view.viewSize = [1000, actorY + 200];
 
     /*
     * The last step is to draw each actor which draws the shows
